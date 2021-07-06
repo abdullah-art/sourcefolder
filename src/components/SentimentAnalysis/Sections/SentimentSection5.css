@@ -1,0 +1,36 @@
+#section5{
+    background-color: rgb(247, 244, 244);
+}
+#sas5title-h{
+    color: grey;
+    margin-top: -20%;
+    display: flex;
+    justify-content: center;
+}
+#sas5title-c{
+    color: black;
+    margin-left: 4%;
+    display: flex;
+    justify-content: center;
+}
+
+#sas5img{
+    display: block;
+    margin: auto;
+    height: 90%;
+    width: 100%;
+}
+#sas5-c{
+    margin-top: 2%;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+#sas5link{
+    margin-top: 2%;
+    font-size: 16px;
+    font-weight: bold;
+    color:black;
+    float: left;
+}

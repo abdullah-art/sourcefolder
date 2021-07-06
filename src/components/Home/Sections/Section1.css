@@ -1,0 +1,16 @@
+.page-hero-section {
+  height: 80vh !important;
+  width: 100%;
+}
+.hero-caption {
+  font-size: 2vw;
+}
+#dbhead {
+  font-weight: bold;
+  font-size: 2em;
+  color: black;
+}
+#dbtxt {
+  font-size: 1em;
+  color: black;
+}

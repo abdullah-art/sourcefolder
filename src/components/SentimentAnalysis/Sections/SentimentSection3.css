@@ -1,0 +1,61 @@
+#SentimentSection3{
+    background-color: rgb(247, 244, 244);
+    padding-bottom: 5%;
+}
+#sas3title-h{
+    color: grey;
+    font-family: cursive;
+    margin-top: 10%;
+    margin-left: 4%;
+}
+#sas3title-c{
+    color: black;
+    font-family: cursive;
+    margin-left: 4%;
+}
+#sas3img{
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+#sas3-c{
+    margin-top: 2%;
+    color: grey;
+    font-family: cursive;
+    text-align: justify;
+    margin-left: -2%;
+}
+#sas3link{
+    margin-top: 2%;
+    font-weight: bold;
+    color: black;
+    font-family: cursive;
+    text-align: justify;
+    float: left;
+    margin-left: -2%;
+}
+
+
+/* .ss3{
+    padding-top: 20%;
+} */
+#sas3aimg{
+    height: 90%;
+    width: 100%;
+}
+#sas3acontent{
+    color: grey;
+    font-family: cursive;
+    text-align: justify;
+    margin-left: -2%;
+}
+#sas3alink{
+    margin-top: 2%;
+    font-weight: bold;
+    color:black;
+    font-family: cursive;
+    text-align: justify;
+    float: left;
+    margin-left: -2%;
+}

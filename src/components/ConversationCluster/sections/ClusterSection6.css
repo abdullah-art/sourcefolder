@@ -1,0 +1,54 @@
+#ClusterSection6{
+    margin-top: -7%;
+
+}
+.ccs6{
+    background-color: white;
+    
+}
+#ccs6-h{
+    margin-top: 5%;
+    color: rgb(71, 71, 192);
+    font-family: cursive;
+}
+#ccs6-c{
+    color: black;
+    font-family: cursive;
+}
+#ccs6demo{
+    padding: 10px;
+    background-color: rgb(71, 71, 192);
+    font-size: 22px;
+    font-family: cursive;
+}
+#ccs6im{
+    margin-top: 15%;
+    width: 300px;
+    height: 300px;
+}
+
+
+ /* part2 */
+
+
+.s6center{
+    margin-left: 5%;
+}
+#ccs6a-h{
+    margin-top: 15%;
+    color: rgb(71, 71, 192);
+    font-family: cursive;
+}
+#ccs6a-c{
+    color: black;
+    font-family: cursive;
+}
+.imgl{
+    margin-top: 10%;
+}
+#ccs6ima{
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: 350px;
+}

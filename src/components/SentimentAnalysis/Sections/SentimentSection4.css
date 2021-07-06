@@ -1,0 +1,28 @@
+
+#sas4title-h{
+    color: grey;
+    margin-top: -15%;
+}
+#sas4title-c{
+    color: black;
+}
+.sas4img{
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+#sas4-c{
+    margin-top: 2%;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+#sas4link{
+    margin-top: 2%;
+    font-size: 16px;
+    font-weight: bold;
+    color:black;
+    float: left;
+}

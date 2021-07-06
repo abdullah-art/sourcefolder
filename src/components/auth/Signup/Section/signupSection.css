@@ -1,0 +1,75 @@
+#signupSection{
+    margin-top: -7%;
+}
+.sus1{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    padding-top: 5%;
+    /* padding-left: 20%;
+    padding-right: 20%; */
+}
+#su-h{
+    font-weight:bolder;
+    color: rgb(52, 52, 202);
+}
+#su-email{
+    margin-top: 1%;
+    padding: 1%;
+    border:2px solid grey;
+    width: fixed;
+    font-size: 18px;
+}
+#su-username{
+    margin-top: 1%;
+    padding: 1%;
+    border:2px solid grey;
+    width: fixed;
+    font-size: 18px;
+}
+#su-password{
+    margin-top: 1%;
+    padding: 1%;
+    border:2px solid grey;
+    width: fixed;
+    font-size: 18px;
+}
+#sus1demo{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: fixed;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 120%;
+    font-weight: bold;
+    background-color: rgb(71, 71, 192);
+}
+.sus2{
+    width: 60%;
+    margin: auto;
+}
+.su-ic{
+    margin-left: 15%;
+    color: grey;
+    font-weight: bold;
+    font-size: 100%;
+}
+#fblogo{
+    margin-top: -2%;
+    height: 8%;
+    width: 8%;
+}
+#glogo{
+    margin-top: -2%;
+    height: 8%;
+    width: 8%;
+}
+#twitterlogo{
+    margin-top: -2%;
+    margin-left: 3%;
+    height: 7%;
+    width: 7%;
+}

@@ -1,0 +1,20 @@
+.ccs2{
+    background-color: white;
+    margin-top: -7%;
+
+}
+#ccs2-i{
+    height: 400px;
+    width: 400px;
+}
+#ccs2title-h{
+    color: rgb(71, 71, 192);
+}
+#ccs2title-c{
+    color: black;
+}
+#ccs2demo{
+    background-color: rgb(71, 71, 192);
+    font-size: 22px;
+    padding: 2%;
+}

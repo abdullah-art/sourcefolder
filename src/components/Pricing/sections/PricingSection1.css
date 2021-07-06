@@ -1,0 +1,12 @@
+.page-hero-section {
+  height: 88vh !important;
+  width: 100%;
+}
+.hero-caption {
+  font-size: 2vw;
+}
+#cs1mtext {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: black;
+}

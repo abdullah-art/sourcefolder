@@ -1,0 +1,25 @@
+#sas2logo {
+  height: 70px;
+  width: 70px;
+}
+#sas2 {
+  width: 80%;
+  padding-top: 3%;
+}
+#sas2-c {
+  font-size: 17px;
+  color: grey;
+}
+#sas2-h {
+  color: black;
+  /* color: rgb(71, 71, 192); */
+}
+#intro {
+  color: darkslategray;
+  font-size: 15px;
+  text-align: justify;
+}
+#sintro {
+  color: darkslategray;
+  font-size: 15px;
+}

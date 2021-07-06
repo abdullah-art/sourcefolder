@@ -1,0 +1,22 @@
+.page-hero-section {
+  height: 80vh !important;
+  width: 100%;
+}
+.hero-caption {
+  font-size: 2vw;
+}
+#rs1mtext {
+  font-weight: bold;
+  font-size: 2em;
+  color: black;
+}
+#rs1mc {
+  font-size: 1em;
+  color: black;
+}
+#rs1demo {
+  font-size: 160%;
+  font-family: cursive;
+  background-color: rgb(71, 71, 192);
+  padding: 2%;
+}

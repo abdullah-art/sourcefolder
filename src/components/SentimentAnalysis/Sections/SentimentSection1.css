@@ -1,0 +1,18 @@
+.page-hero-section {
+  height: 88vh !important;
+  width: 100%;
+}
+
+#sas1-h {
+  margin-top: 5%;
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+}
+#sas1-t {
+  font-size: 1em;
+  color: black;
+}
+.hero-caption {
+  font-size: 2vw;
+}

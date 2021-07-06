@@ -1,0 +1,100 @@
+.p2m{
+    margin-bottom: 36%;
+}
+.p3m{
+    margin-bottom:  14%;
+}
+.row{
+    display: flex;
+    position: relative;
+    width: 99%;
+}
+#pric-c{
+    padding-left: 8%;
+    color: grey;
+    font-family: cursive;
+    font-size: 16px;
+    text-align: left;
+}
+#cs1demoa{
+    font-size: 110%;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: orange;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+.pric1{
+    background-color: blanchedalmond;
+    font-family: cursive;
+    margin: auto;
+    margin-left: 7%;
+    text-align: center;
+    margin-top: 8%;
+    border: solid orange 5px;
+    border-radius: 4%;
+}
+#pric-h{
+    margin: 7%;
+    font-family: cursive;
+    color: rgb(37, 37, 109);
+}
+#p-h1{
+    width: 50%;
+    border-width: 3px;
+    font-family: cursive;
+    background-color: orange;
+}
+#cs1demob{
+    font-size: 110%;
+    font-weight: bold;
+    background-color: blue;
+    font-family: cursive;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+.pric2{
+    background-color: blanchedalmond;
+    font-family: cursive;
+    margin: auto;
+    margin-left: 7%;
+    text-align: center;
+    margin-top: 8%;
+    border: solid blue 5px;
+    border-radius: 4%;
+    height: 140%;
+}
+#p-h2{
+    width: 50%;
+    border-width: 3px;
+    background-color: blue;
+}
+#cs1democ{
+    background-color:   rgb(240, 11, 171);
+    font-family: cursive;
+    font-size: 110%;
+    font-weight: bold;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+.pric3{
+    background-color: blanchedalmond;
+    font-family: cursive;
+    margin: auto;
+    margin-left: 7%;
+    text-align: center;
+    margin-top: 8%;
+    border: solid rgb(240, 11, 171) 5px;
+    border-radius: 4%;
+}
+#p-h3{
+    width: 50%;
+    border-width: 3px;
+    background-color: rgb(240, 11, 171);
+}

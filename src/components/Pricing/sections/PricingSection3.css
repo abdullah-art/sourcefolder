@@ -1,0 +1,28 @@
+#css3mtext{
+    margin: auto;
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(46, 46, 100);
+}
+.lead{
+    width: 50%;
+}
+#i1{
+    /* float: right;
+     margin-top: 2%;
+    /*margin-left: 67%;*/
+    font-family: cursive;
+    padding-top: 8%;
+    height: 80%;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+#i2{
+    height: 90%;
+    width: 70%;
+    font-family: cursive; 
+    margin: auto;
+    text-align: center;
+}

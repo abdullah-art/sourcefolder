@@ -1,0 +1,21 @@
+.page-hero-section {
+  height: 80vh !important;
+  width: 100%;
+}
+#ccs1-h {
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+}
+#ccs1-t {
+  font-size: 1em;
+  color: black;
+}
+#ccs1demo {
+  font-size: 1em;
+  background-color: rgb(71, 71, 192);
+  padding: 2%;
+}
+.hero-caption {
+  font-size: 2vw;
+}

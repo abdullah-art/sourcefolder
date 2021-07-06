@@ -1,0 +1,24 @@
+#as2title-h{
+    color: rgb(52, 52, 202);
+    font-weight: bold;
+    margin-left: 25px;
+}
+#as2title-c{
+    color: rgb(24, 22, 99);
+    font-size: 20px;
+    margin-top: -8px;;
+}
+#as2demo{
+    background-color: rgb(71, 71, 192);
+    font-size: 17px;
+    padding: 3%;
+
+}
+#as2a{
+    height: 500px;
+    width: 500px;
+    margin-top: -4%;
+}
+.as2{
+    margin-top: 2%;
+}

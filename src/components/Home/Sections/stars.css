@@ -1,0 +1,18 @@
+.stars {
+  width: 100%;
+  color: white;
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  padding: 0;
+  background-image: linear-gradient(to left, #a52eff, #3d58f3);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#dbs3-head{
+  font-weight: bold;
+}
+#dbs3-c{
+  font-size: 18px;
+}

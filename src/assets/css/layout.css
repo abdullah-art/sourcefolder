@@ -1,0 +1,11 @@
+.inp {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+}
+.button {
+  border-radius: 100px;
+}
+.color {
+  background-color: lightgray;
+}

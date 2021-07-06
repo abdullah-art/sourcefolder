@@ -1,0 +1,21 @@
+.inp {
+  border: none !important;
+  border-bottom: 1px solid #ffffff !important;
+  padding: 5px 10px !important;
+  outline: none !important;
+}
+
+.arrow-up {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid #007bff;
+  margin-left: 49%;
+}
+#demobtn{
+  padding: 15px;
+  background-color: rgb(238, 57, 178);
+  color: white;
+  font-size: 20px;
+}

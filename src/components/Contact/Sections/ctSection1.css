@@ -1,0 +1,62 @@
+.cts1{
+    margin-top: -4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    /* padding-left: 20%;
+    padding-right: 20%; */
+}
+#ct-h{
+    font-family: cursive;
+    font-weight: bold;
+}
+#cttxt{
+    margin-top: 5%;
+    color: grey;
+    font-family: cursive;
+    font-size: 18px;
+}
+#fname{
+    padding: 3%;
+    border:2px solid grey;
+    width: 48%;
+    font-family: cursive;
+    font-size: 20px;
+}
+#lname{
+    margin-left:2%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border:2px solid grey;
+    width: 50%;
+    font-family: cursive;
+    font-size: 20px;
+}
+#subject{
+    margin-top: 3%;
+    padding: 3%;
+    border:2px solid grey;
+    width: 100%;
+    font-family: cursive;
+    font-size: 20px;
+}
+#messege{
+    margin-top: 3%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 15%;
+    font-family: cursive;
+    border:2px solid grey;
+    width: 100%;
+    font-size: 20px;
+}
+#cts1demo{
+    padding: 3%;
+    width: 70%;
+    display: block;
+    margin: auto;
+    font-family: cursive;
+    text-align: center;
+    font-size: 160%;
+    background-color: rgb(71, 71, 192);
+}

@@ -1,0 +1,37 @@
+
+#rs2title-h{
+    color: rgb(52, 52, 202);
+    font-weight: bold;
+}
+#rs2title-c{
+    color: rgb(24, 22, 99);
+    font-size: 18px;
+}
+#rs2ctitle-c{
+    color: rgb(24, 22, 99);
+    font-family: cursive;
+    font-size: 18px;
+}
+#rs2a{
+    height: 400px;
+    width: 450px;
+    margin-top: -4%;
+}
+#rs2b{
+    height: 250px;
+    width: 300px;
+    margin-top: -4%;
+}
+#irs2c{
+    margin-top: 8%;
+    height: 400px;
+    width: 500px;
+}
+#rs2demob{
+    background-color: rgb(71, 71, 192);
+    font-family: cursive;
+    font-size: 22px;
+    padding: 2%;
+    margin-top: 5%;
+    margin-left:35%;
+}

@@ -1,0 +1,18 @@
+#aus2title-h{
+    color: rgb(52, 52, 202);
+    font-weight: bold;
+}
+#aus2title-c{
+    color: rgb(37, 36, 36);
+    font-size: 18px;
+    line-height: 150%;
+}
+#aus2demo{
+    background-color: rgb(71, 71, 192);
+    font-family: cursive;
+    font-size: 18px;
+}
+#aus2-i{
+    height: 300px;
+    width: 400px;
+}
